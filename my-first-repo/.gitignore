@@ -1,0 +1,6 @@
+# local ev files
+.env*
+
+# misc
+.vscode
+/.vscode
